@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.gonderiBaslik{
+	background-color: #A69090;
+}
+.yorumDiv{
+	height:300px; 
+	background-color: #B8ABAB;
+}
+.yorumKullaniciAdi{
+	background-color: #989090;
+}
